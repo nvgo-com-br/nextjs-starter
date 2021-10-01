@@ -1,5 +1,5 @@
 const configClient = {
-  title: 'Aratu On',
+  title: 'Next.js Starter',
   subtitle: '',
   description: '',
 
@@ -7,8 +7,8 @@ const configClient = {
   url: '',
 
   twitter: {
-    creator: '@aratuon',
-    site: '@aratuon',
+    creator: '@nextjs',
+    site: '@nextjs',
   },
 };
 
