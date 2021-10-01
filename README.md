@@ -26,31 +26,4 @@ Assim que a instalação do projeto e das dependências for finalizado, você po
 > yarn dev
 ```
 
-## Iniciando novo histórico Git (opcional):
-
-Ao iniciar um novo projeto com o template, todo o histórico do git também é clonado. Caso você queira
-iniciar um novo histórico do git, dentro do diretório do projeto execute:
-
-#### Linux
-```
-> rm -rf .git
-```
-
-#### Windows
-```
-> del ".git"
-```
-
-Após digitar o comando, irá aparecer a seguinte mensagem:
-```
-[S] Sim  [A] Sim para Todos  [N] Não  [T] Não para Todos [U] Suspender[?] Ajuda (o padrão é "S"):
-```
-
-Então é só digitar "Enter"
-
----
-
-Após isto é só inicializar o git:
-```
-> git init
-```
+Então, abra http://localhost:3000 no seu navegador para ver seu novo projeto!
